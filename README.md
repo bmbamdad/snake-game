@@ -1,23 +1,23 @@
 # Snake Game
 
-A classic Snake game built with HTML5 Canvas, CSS, and JavaScript.
+A classic Snake game built with HTML, CSS, and JavaScript.
 
 ## How to Play
 
-1. Click the "Start Game" button to begin
-2. Use the arrow keys to control the snake's direction
-3. Eat the red food squares to grow and increase your score
+1. Click the "Start Game" button
+2. Use arrow keys to control the snake
+3. Eat the red food to grow and increase your score
 4. Avoid hitting the walls or yourself
-5. The game gets progressively faster every 50 points
+5. Try to beat your high score!
 
 ## Features
 
 - Score tracking
 - High score persistence
 - Increasing difficulty
-- Smooth controls
-- Modern UI design
+- Responsive design
+- Modern UI
 
-## Play Online
+## Play the Game
 
-Visit the game at: [Your GitHub Pages URL will be here] 
+Visit: https://bmbamdad.github.io/snake-game/ 
